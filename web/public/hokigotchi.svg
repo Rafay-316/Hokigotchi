@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-labelledby="title">
+<title id="title">Hoki, the Hokigotchi turkey companion</title>
+<path fill="#4b172b" d="M6 5h4v2h3V3h5v4h4V5h4v5h3v5h2v6h-3v4H5v-3H2v-6H1v-5h3V7h2z"/>
+<path fill="#e5751f" d="M6 7h3v3h3v7H8v-4H5V9h1zM14 5h3v9h-3zM23 7h2v5h2v5h-4zM3 13h3v4h4v4H5v-3H3zM26 18h3v3h-4v3h-4v-4h5z"/>
+<path fill="#ca4f00" d="M10 10h3v7h-3zM18 9h3v8h-3zM7 21h5v3H7z"/>
+<path fill="#f7c77d" d="M6 7h3v2H6zM14 5h3v2h-3zM23 7h2v2h-2zM3 13h2v2H3z"/>
+<path fill="#3d2025" d="M13 6h8v2h3v9h2v8h-3v3H10v-3H8v-7h3v-8h2z"/>
+<path fill="#9c6544" d="M13 8h8v2h2v8H12v-7h1zM10 18h14v7H10z"/>
+<path fill="#ba865a" d="M13 9h7v2h-6v5h-2v-5h1z"/>
+<path fill="#861f41" d="M13 5h3V3h3v2h2v3h-8z"/>
+<path fill="#fff8e9" d="M14 10h4v6h-4zM20 10h3v6h-3z"/>
+<path fill="#2b1a23" d="M16 12h2v3h-2zM21 12h2v3h-2z"/>
+<path fill="#fff" d="M16 12h1v1h-1zM21 12h1v1h-1z"/>
+<path fill="#e5751f" d="M21 16h7v2h-2v2h-5z"/>
+<path fill="#ffc66e" d="M22 16h5v1h-5z"/>
+<path fill="#c64657" d="M21 20h3v3h-2v1h-2v-3h1z"/>
+<path fill="#861f41" d="M11 19h9v5h3v2H11z"/>
+<path fill="#f7c77d" d="M11 18h10v2H11zM16 21h2v3h-2zM18 22h2v2h-2z"/>
+<path fill="#74452f" d="M9 19h3v2h2v3h-4v-2H9z"/>
+<path fill="#e5751f" d="M12 28h3v2h2v1H9v-2h3zM21 28h3v2h3v1h-8v-2h2z"/>
+</svg>
